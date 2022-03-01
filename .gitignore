@@ -1,3 +1,11 @@
 basic-kotlin/build/
 basic-kotlin/.gradle
-
+.idea
+basic-kotlin/.idea
+/.idea/.gitignore
+/.idea/gradle.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/training-bca-syariah.iml
+/.idea/vcs.xml
